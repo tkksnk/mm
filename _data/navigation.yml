@@ -1,5 +1,15 @@
 # main links
 main:
+  - title: "About"
+    url: /about/
+  # - title: "Working Papers"
+  #   url: /wps/
+  - title: "Publications"
+    url: /publications/
+  # - title: "Teaching"
+  #   url: /teaching/
+  # - title: "CV"
+  #   url: /cv/
   - title: "Quick-Start Guide"
     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   # - title: "About"
