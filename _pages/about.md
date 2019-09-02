@@ -1,11 +1,11 @@
 ---
-permalink: /about/
+permalink: /
 title: "Welcome to my personal website!" #"academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
 excerpt: "About me"
 author_profile: true
-<!-- redirect_from:
+redirect_from:
   - /about/
-  - /about.html -->
+  - /about.html
 ---
 
 I am currently a tenure-track associate professor at [Kobe University Center for Social Systems Innovation](http://cfssi.kobe-u.ac.jp/index-e.html). Previously I was a project assistant professor at the University of Tokyo and an economist at the Bank of Japan. I received a Ph.D. in economics at [the Ohio State University](https://economics.osu.edu/).
